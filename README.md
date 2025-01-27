@@ -1,1 +1,0 @@
-# Calculate-roots-of-quadratic-equation-
